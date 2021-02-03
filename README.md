@@ -2,7 +2,7 @@
 
 # CVE-2020-3452
 
-Usage: CVE-2020-3452.py https://target.com
+Usage: CVE-2020-3452.py https://target
 
 Vulnerability description: A vulnerability in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct directory traversal attacks and read sensitive files on a targeted system.
 
